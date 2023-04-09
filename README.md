@@ -1,6 +1,6 @@
 # Bumblebee
 
-Node JS
+Node JS /
 React /
-Database - MangoDB
+Database - MongoDB
 
