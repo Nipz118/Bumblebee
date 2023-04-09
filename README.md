@@ -1,5 +1,6 @@
 # Bumblebee
 
-Database - MangoDB
 Node JS
-React 
+React /
+Database - MangoDB
+
